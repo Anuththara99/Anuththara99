@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuththara99
 - 👀 I’m interested in mobile Application development, database management , DevOps , full stack engineering , machine learning ...
-- 🌱 I’m currently learning Software Engineering
+- 🌱 Currently I'm final year Software Engineering undergraduate at IIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - my email (rajananda046@gmail.com)
 
